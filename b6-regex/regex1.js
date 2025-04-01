@@ -1,5 +1,9 @@
 // Test Method
 
+console.log('Regex1js' +
+    '');
+
+
 {
   const str = "I love JavaScript";
   const pattern = /love/;
